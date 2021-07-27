@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log4net>
+  <appender name="AppLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/Test-BVRS-Client/Log_bvrs_rest_lib_test_module.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="5" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>      
+  
+  <!-- levels: DEBUG, INFO, WARN, ERROR, FATAL -->
+  <root>
+    <!-- <appender-ref ref="AppLog" /> -->
+  </root>
+  <logger name="AppLog">
+    <level value="ERROR" />
+    <appender-ref ref="AppLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="AppLog" />
+  </logger> 
+</log4net>

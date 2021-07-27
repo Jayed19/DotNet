@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log4net>
+  <appender name="AppLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/BVRS-Client/Log_bvrs_client.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="5" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>    
+  <appender name="PhotoLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/BVRS-Client/Log_photo.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="5" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>
+  <appender name="FingerLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/BVRS-Client/Log_fingerprint.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="5" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>
+  
+   <appender name="IrisLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/BVRS-Client/Log_iris.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="5" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>
+  
+  <appender name="AutoUpdateLog" type="log4net.Appender.RollingFileAppender">
+    <file value="${PUBLIC}/Documents/TigerIT/Log/BVRS-Client/Log_updater.txt" />
+    <appendToFile value="true" />
+    <maximumFileSize value="2MB" />
+    <rollingStyle value="Size" />
+    <maxSizeRollBackups value="10" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="[%d{yyyy-MM-dd HH:mm:ss.fff}] [%t] %-5p %c - %m%n" />
+    </layout>
+  </appender>
+  
+  
+  <!-- levels: DEBUG, INFO, WARN, ERROR, FATAL -->
+  <root>
+    <!-- <appender-ref ref="AppLog" /> -->
+  </root>
+  <logger name="AppLog">
+    <level value="ERROR" />
+    <appender-ref ref="AppLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="AppLog" />
+  </logger>
+  
+   <logger name="PhotoLog">
+    <level value="ERROR" />
+    <appender-ref ref="PhotoLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="PhotoLog" />
+  </logger>
+ 
+  <logger name="FingerLog">
+    <level value="ERROR" />
+    <appender-ref ref="FingerLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="FingerLog" />
+  </logger>
+  
+  <logger name="IrisLog">
+    <level value="ERROR" />
+    <appender-ref ref="IrisLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="IrisLog" />
+  </logger>
+ 
+ <logger name="AutoUpdateLog">
+    <level value="ERROR" />
+    <appender-ref ref="AutoUpdateLog" />
+
+    <level value="INFO" />
+    <appender-ref ref="AutoUpdateLog" />
+  </logger>
+  
+</log4net>

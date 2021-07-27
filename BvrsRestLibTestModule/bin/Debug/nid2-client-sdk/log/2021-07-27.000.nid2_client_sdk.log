@@ -1,0 +1,54 @@
+2021-07-26 16:11:57.5866|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:11:58.4487|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [Unauthorized], ReasonPhrase: [Unauthorized]
+2021-07-26 16:11:58.5057|ERROR|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|NID2.Client.SDK.Exceptions.ServiceException: Unauthorized
+   at NID2.Client.SDK.Services.WorkstationService.Registration(WorkstationRegistrationRequest request, String token)
+   at NID2.Client.SDK.VoterUploadClient.WorkstationRegistration(ProductKeyInfo productKey, WorkstationInfo workstation, String productName, String token)
+NID2.Client.SDK.Exceptions.ServiceException: Unauthorized
+   at NID2.Client.SDK.Services.WorkstationService.Registration(WorkstationRegistrationRequest request, String token)
+   at NID2.Client.SDK.VoterUploadClient.WorkstationRegistration(ProductKeyInfo productKey, WorkstationInfo workstation, String productName, String token)
+2021-07-26 16:13:21.5934|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:13:22.2895|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:13:22.3505|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [CONFLICT], message: [].
+2021-07-26 16:13:22.3505|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [True].
+2021-07-26 16:14:45.1512|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:14:45.8843|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:14:45.9543|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:14:45.9553|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [True].
+2021-07-26 16:15:05.2964|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:15:05.9024|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:15:05.9634|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:15:05.9634|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [True].
+2021-07-26 16:17:13.1207|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:17:13.8257|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:17:13.9057|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:17:13.9067|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [True].
+2021-07-26 16:40:12.7416|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:40:14.1107|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:40:14.1917|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:40:14.1917|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:40:14.1917|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].
+2021-07-26 16:40:25.4473|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:40:26.3514|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:40:26.3514|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:40:26.3514|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:40:26.3514|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].
+2021-07-26 16:46:39.3767|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:46:40.3098|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:46:40.3768|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:46:40.3768|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:46:40.3768|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].
+2021-07-26 16:47:40.6902|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:47:41.3763|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:47:41.4503|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:47:41.4503|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:47:41.4503|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].
+2021-07-26 16:48:51.8433|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:48:52.7283|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:48:52.7993|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:48:52.7993|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:48:52.7993|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].
+2021-07-26 16:51:38.2558|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting to registar workstation, product name [BVRS_Enrollment_System].
+2021-07-26 16:51:39.1019|DEBUG|NID2.Client.SDK.Services.WorkstationService.Registration|Response StatusCode: [OK], ReasonPhrase: [OK]
+2021-07-26 16:51:39.1789|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|For requesting [BVRS_Enrollment_System] product Name, status: [PRECONDITION_FAILED], message: [].
+2021-07-26 16:51:39.1789|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation response.Success has data.
+2021-07-26 16:51:39.1789|DEBUG|NID2.Client.SDK.VoterUploadClient.WorkstationRegistration|Requesting registar workstation is [False].

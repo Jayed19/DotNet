@@ -1,0 +1,7 @@
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Release\BvrsRestLibTestModule.exe.config
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Release\BvrsRestLibTestModule.exe
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Release\BvrsRestLibTestModule.pdb
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Release\BvrsRestLibTestModule.Properties.Resources.resources
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Release\BvrsRestLibTestModule.csproj.GenerateResource.Cache
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Release\BvrsRestLibTestModule.exe
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Release\BvrsRestLibTestModule.pdb

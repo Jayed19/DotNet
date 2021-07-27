@@ -1,0 +1,32 @@
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.exe.config
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.exe
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.pdb
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\log4net.dll
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\NID2.Client.SDK.dll
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\NLog.dll
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\Newtonsoft.Json.dll
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\log4net.xml
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.Properties.Resources.resources
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.Views.vMain.resources
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.vTestWsRegistration.resources
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.csproj.GenerateResource.Cache
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.exe
+J:\Projects\PERP\BVRS\bvrs-rest-dll-test-module\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.pdb
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.exe.config
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.exe
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\BvrsRestLibTestModule.pdb
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\log4net.dll
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\NID2.Client.SDK.dll
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\NLog.dll
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\Newtonsoft.Json.dll
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\log4net.xml
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\bin\Debug\NID2.Client.SDK.dll.config
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.csproj.AssemblyReference.cache
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.Properties.Resources.resources
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.Views.vMain.resources
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.vTestWsRegistration.resources
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.csproj.GenerateResource.cache
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.csproj.CoreCompileInputs.cache
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.csproj.CopyComplete
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.exe
+E:\Jayed\VS Code\BvrsRestLibTestModule\BvrsRestLibTestModule\BvrsRestLibTestModule\obj\Debug\BvrsRestLibTestModule.pdb
