@@ -14,7 +14,7 @@ namespace BvrsRestLibTestModule
 {
     public partial class vTestWsRegistration : Form
     {
-        WsRegistration ws;
+        WsSync wsn;
         public vTestWsRegistration()
         {
             InitializeComponent();
@@ -22,20 +22,25 @@ namespace BvrsRestLibTestModule
 
         private void vTestWsRegistration_Load(object sender, EventArgs e)
         {
-            ws = new WsRegistration(this);
+            wsn = new WsSync(this);
         }
 
         private void bRegister_Click(object sender, EventArgs e)
         {
             try
             {
-                ws.Register();
+                wsn.WSync();
             }
             catch (Exception ex)
             {
                 TLog.Error(ex.Message, ex);
                 MessageBox.Show(ex.Message, "", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -60,9 +60,13 @@
   <ItemGroup>
     <Compile Include="AppEnums.cs" />
     <Compile Include="Global.cs" />
+    <Compile Include="Models\WSyncmodel.cs" />
     <Compile Include="Models\Counter.cs" />
+    <Compile Include="Presenter\WsSync.cs" />
     <Compile Include="Presenter\WsRegistration.cs" />
+    <Compile Include="Services\RESTManagerWSync.cs" />
     <Compile Include="Services\RESTManager.cs" />
+    <Compile Include="TestSamples\TestWSync.cs" />
     <Compile Include="TestSamples\TestScript.cs" />
     <Compile Include="TLog.cs" />
     <Compile Include="Utils\Utils.cs" />

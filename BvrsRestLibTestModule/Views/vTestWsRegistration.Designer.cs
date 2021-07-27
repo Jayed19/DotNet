@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.bRegister = new System.Windows.Forms.Button();
+            this.bsyncworkstation = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // bRegister
@@ -41,11 +42,22 @@
             this.bRegister.UseVisualStyleBackColor = true;
             this.bRegister.Click += new System.EventHandler(this.bRegister_Click);
             // 
+            // bsyncworkstation
+            // 
+            this.bsyncworkstation.Location = new System.Drawing.Point(653, 383);
+            this.bsyncworkstation.Name = "bsyncworkstation";
+            this.bsyncworkstation.Size = new System.Drawing.Size(124, 51);
+            this.bsyncworkstation.TabIndex = 1;
+            this.bsyncworkstation.Text = "Sync Workstation";
+            this.bsyncworkstation.UseVisualStyleBackColor = true;
+            this.bsyncworkstation.Click += new System.EventHandler(this.button1_Click);
+            // 
             // vTestWsRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(879, 576);
+            this.Controls.Add(this.bsyncworkstation);
             this.Controls.Add(this.bRegister);
             this.Name = "vTestWsRegistration";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -58,6 +70,7 @@
         #endregion
 
         private System.Windows.Forms.Button bRegister;
+        private System.Windows.Forms.Button bsyncworkstation;
     }
 }
 
